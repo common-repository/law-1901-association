@@ -1,0 +1,159 @@
+#wpbody-content {
+    padding-bottom: 0;
+}
+
+#wpbody-content > .law1901wrap {
+    margin: 0 0 0 -20px;
+}
+
+#wpbody-content > .law1901wrap > * {
+    margin: 0 20px;
+}
+
+#wpbody-content > .law1901wrap > h1 {
+    margin: 0;
+}
+
+h1 {
+    background-color: #ffffff;
+    padding-top: 20px !important;
+    padding-left: 5em !important;
+    font-weight: bold !important;
+    min-height: 60px;
+    margin-bottom: 1em !important;
+}
+
+h1.fullwidth {
+    width: 100%;
+}
+
+h1.settings {
+    min-height: 25px;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-left: 15px;
+    font-size: 1.5em;
+}
+
+.title {
+    display: inline-block;
+    width: 100%;
+    background-color: #ffffff;
+    margin-left: -20px !important;
+}
+
+.law1901wrap .tabs {
+    margin-left: 20px;
+}
+
+.title a {
+    margin-left: 30px;
+    text-decoration: none;
+    color: #666666;
+    display: inline-block;
+    border-bottom: 3px solid white;
+    padding-bottom: 12px;
+}
+
+.title a:hover {
+    border-color: #999999;
+}
+
+.title a.active {
+    border-color: #e27730;
+}
+
+.law1901wrap.settings {
+    margin-top: 20px !important;
+}
+
+.settings {
+    margin-left: 1em !important;
+}
+
+.settings2 {
+    margin-left: 2.5em !important;
+}
+
+.settings3 {
+    margin-left: 1em !important;
+}
+
+.settings3 p, .settings3 span {
+    margin-left: 2em !important;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.red {
+    color: red;
+}
+
+.number {
+    width: 70px;
+    margin-left: 20px;
+}
+
+.table-view-member, .acf-form-fields {
+    display: table;
+    font-size: 14px;
+    min-width: 500px;
+}
+
+.table-view-member > div, .acf-form-fields > div {
+    display: table-row;
+}
+
+.table-view-member > div > div, .acf-form-fields > div > div {
+    display: table-cell;
+    padding: 8px 0 8px 16px;
+}
+
+.table-view-list-members, .table-view-member, .acf-form-fields {
+    margin-left: 1em;
+    max-width: 650px;
+}
+
+.table-view-list-members th, .table-view-list-members td {
+    border-right: solid 1px #999999;
+    text-align: center;
+}
+
+.table-view-list-members th a, .table-view-list-members td a {
+    display: block;
+}
+
+
+.table-view-member .acf-label, .acf-form-fields .acf-label {
+    font-weight: bold;
+}
+
+.table-view-member .acf-label, .table-view-member .acf-input, .acf-form-fields .acf-label {
+    margin-right: 1em;
+}
+
+#fee-filter {
+    float: right;
+    margin: 11px;
+}
+
+.acf-form-submit {
+    margin-left: 1em;
+    margin-top: 0.5em;
+}
+
+.acf-accordion {
+    background-color: transparent !important;
+}
+
+.acf-fields > .acf-field {
+    padding-right: 0 !important;
+}
+
+.spacer {
+    margin-top: 3em;
+}

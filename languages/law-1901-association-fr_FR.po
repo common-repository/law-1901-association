@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: law-1901-association\n"
+"POT-Creation-Date: 2024-09-13 16:30+0200\n"
+"PO-Revision-Date: 2024-09-13 16:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html_e;esc_attr__;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-update-checker\n"
+
+#: class/class-law-1901-association-member-list-table.php:35
+msgid "member"
+msgstr "membre"
+
+#: class/class-law-1901-association-member-list-table.php:36
+msgid "members"
+msgstr "membres"
+
+#: class/class-law-1901-association-member-list-table.php:210
+#: class/class-law-1901-association.php:550 templates/user-tab-1.php:24
+msgid "First name"
+msgstr "Prénom"
+
+#: class/class-law-1901-association-member-list-table.php:211
+#: class/class-law-1901-association.php:543 templates/user-tab-1.php:33
+msgid "Last name"
+msgstr "Nom"
+
+#: class/class-law-1901-association-member-list-table.php:212
+#: templates/user-tab-1.php:42
+msgid "Email"
+msgstr "Email"
+
+#: class/class-law-1901-association-member-list-table.php:213
+#: class/class-law-1901-association.php:609
+msgid "Membership fee"
+msgstr "Cotisation"
+
+#: class/class-law-1901-association-member-list-table.php:214
+#: class/class-law-1901-association.php:616
+msgid "Board member"
+msgstr "Membre du bureau"
+
+#: class/class-law-1901-association-member-list-table.php:252
+msgid "Edit"
+msgstr "Modifier"
+
+#: class/class-law-1901-association-member-list-table.php:275
+#: templates/user-tab-1.php:64
+msgid "m/d/Y"
+msgstr "d/m/Y"
+
+#: class/class-law-1901-association.php:181
+msgid ""
+"The <strong>Advanced Custom Fields (ACF)</strong> plugin is needed by the "
+"plugin <strong>law-1901-association</strong>."
+msgstr ""
+"Le plugin <strong>Advanced Custom Fields (ACF)</strong> est nécessaire pour "
+"le fonctionnement du plugin <strong>law-1901-association</strong>."
+
+#: class/class-law-1901-association.php:277
+#: class/class-law-1901-association.php:278
+msgid "Home"
+msgstr "Accueil"
+
+#: class/class-law-1901-association.php:287
+#: class/class-law-1901-association.php:288
+msgid "Members"
+msgstr "Membres"
+
+#: class/class-law-1901-association.php:296
+#: class/class-law-1901-association.php:297
+#: class/class-law-1901-association.php:314
+#: class/class-law-1901-association.php:315
+msgid "My profile"
+msgstr "Mon profil"
+
+#: class/class-law-1901-association.php:305
+#: class/class-law-1901-association.php:306
+msgid "Settings"
+msgstr "Réglages"
+
+#: class/class-law-1901-association.php:329
+#: class/class-law-1901-association.php:383
+#: class/class-law-1901-association.php:501
+msgid "Sorry, this page cannot be rendered."
+msgstr "Désolé, nous ne pouvons afficher cette page pour le moment."
+
+#: class/class-law-1901-association.php:539
+msgid "Last name and first name (register only)"
+msgstr "Nom et prénom (inscription seulement)"
+
+#: class/class-law-1901-association.php:580
+msgid "Register information"
+msgstr "Données d'inscription"
+
+#: class/class-law-1901-association.php:605 templates/user-tabs.php:62
+msgid "Administrative information"
+msgstr "Données administratives"
+
+#: class/class-law-1901-association.php:621
+msgid "President"
+msgstr "Président(e)"
+
+#: class/class-law-1901-association.php:622
+msgid "Vice President"
+msgstr "Vice-président(e)"
+
+#: class/class-law-1901-association.php:623
+msgid "Secretary"
+msgstr "Secrétaire"
+
+#: class/class-law-1901-association.php:624
+msgid "Assistant Secretary"
+msgstr "Secrétaire-adjoint(e)"
+
+#: class/class-law-1901-association.php:625
+msgid "Treasurer"
+msgstr "Trésorier(e)"
+
+#: class/class-law-1901-association.php:626
+msgid "Assistant Treasurer"
+msgstr "Trésorier(e)-adjoint(e)"
+
+#: class/class-law-1901-association.php:896
+msgid "You are not allowed to access this page."
+msgstr "Vous n'avez pas le droit de consulter cette page."
+
+#: templates/main.php:24
+msgid "Association administration"
+msgstr "Gestion de l'association"
+
+#: templates/main.php:29
+msgid "Members sorted by membership fee"
+msgstr "Membres classés par cotisation"
+
+#: templates/main.php:34 templates/members.php:22
+msgid "No membership fee"
+msgstr "Pas de cotisation"
+
+#: templates/main.php:39 templates/members.php:23
+msgid "Past members"
+msgstr "Anciens membres"
+
+#: templates/main.php:44 templates/members.php:24
+msgid "Membership fee to be paid"
+msgstr "Cotisations en retard"
+
+#: templates/main.php:49 templates/members.php:25
+msgid "Membership fee paid"
+msgstr "Cotisations à jour"
+
+#: templates/members.php:21
+msgid "Filter membership fee"
+msgstr "Filtrer suivant les cotisations"
+
+#: templates/members.php:31
+msgid "Association members"
+msgstr "Membres de l'association"
+
+#: templates/members.php:40
+msgid "Search Users"
+msgstr "Rechercher de comptes"
+
+#: templates/settings-tab-1.php:15 templates/settings-tabs.php:30
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: templates/settings-tab-1.php:32
+msgid ""
+"Update the register form (hide the login field, add a red mark on the "
+"email, ...)"
+msgstr ""
+"Altérer le formulaire d'inscription (masquer le champ \"Identifiant\", "
+"ajouter une étoile sur le mail, ...)"
+
+#: templates/settings-tab-1.php:38
+msgid ""
+"Delay (in weeks) before a member that has to pay it's fee is no more "
+"considered as a member"
+msgstr ""
+"Délai (en semaines) avant exclusion définitive (si non renouvellement de "
+"cotisation)"
+
+#: templates/settings-tab-1.php:62
+msgid ""
+"Allow access to restricted pages when member has to pay but before "
+"definitive exclusion"
+msgstr ""
+"Autoriser l'accès aux pages restreintes après la date limite de cotisation "
+"(mais avant l'exclusion définitive)"
+
+#: templates/settings-tab-1.php:68
+msgid "Shortcode text to restrict page access to members"
+msgstr "Mot pour le shortcode qui bloque une page pour les non-membres"
+
+#: templates/settings-tab-1.php:80
+msgid ""
+"Page to display if a user is logged in, but don't have access to restricted "
+"pages"
+msgstr ""
+"Page à afficher si un membre est connecté, mais n'a pas accès aux pages "
+"restreintes"
+
+#: templates/settings-tab-1.php:86
+msgid "Default page"
+msgstr "Page par défaut"
+
+#: templates/settings-tab-2.php:51
+msgid "Define group display rules"
+msgstr "Définir les régles d'affichage du groupe"
+
+#: templates/settings-tab-2.php:58
+msgid "1) Last name and first name"
+msgstr "1) Nom et Prénom"
+
+#: templates/settings-tab-2.php:61
+msgid ""
+"The last name and first name already exists in WordPress but are not in the "
+"registration field. We need an ACF group just for registration and will copy "
+"it's values to the real fields."
+msgstr ""
+"Le nom et le prénom existent déjà dans WordPress mais ne sont pas présents "
+"dans le formulaire d'inscription. Il faut un groupe ACF pour l'inscription "
+"dont les valeurs seront recopiées ensuite dans les vrais champs."
+
+#: templates/settings-tab-2.php:65
+msgid "Last name/first name group"
+msgstr "Groupe nom/prénom"
+
+#: templates/settings-tab-2.php:68 templates/settings-tab-2.php:129
+#: templates/settings-tab-2.php:151
+msgid "Create group"
+msgstr "Créer le groupe"
+
+#: templates/settings-tab-2.php:73
+msgid "First name field"
+msgstr "Champ prénom"
+
+#: templates/settings-tab-2.php:93
+msgid "Last name field"
+msgstr "Champ nom"
+
+#: templates/settings-tab-2.php:119
+msgid "2) Registration data"
+msgstr "2) Données d'inscription"
+
+#: templates/settings-tab-2.php:122
+msgid ""
+"We need a group for registration data. This fields are not mandatory for the "
+"plugin to work, but you can put there anything you want."
+msgstr ""
+"Il faut un groupe pour les données nécessaires à l'inscription. Aucun des "
+"champs n'est nécessaire au plugin, mais vous pouvez y mettre ce que bon vous "
+"semble."
+
+#: templates/settings-tab-2.php:126
+msgid "Registration group"
+msgstr "Groupe inscription"
+
+#: templates/settings-tab-2.php:141
+msgid "3) Administratif data"
+msgstr "3) Données administratives"
+
+#: templates/settings-tab-2.php:144
+msgid ""
+"We need a group for administrative date. This are not visible by members. It "
+"includes membership fees that will be used to lock some pages."
+msgstr ""
+"Il faut un groupe pour les données administratives qui ne sont pas "
+"nécessairement visibles par le membre. Cela comprend notamment la cotisation "
+"qui sera utilisée pour verrouiller certaines pages."
+
+#: templates/settings-tab-2.php:148
+msgid "Administrative data group"
+msgstr "Groupe données administratives"
+
+#: templates/settings-tab-2.php:156
+msgid "Membership fees field"
+msgstr "Champ cotisation"
+
+#: templates/settings-tab-2.php:176
+msgid "Board member field"
+msgstr "Champ membre du bureau"
+
+#: templates/settings-tab-3.php:16
+msgid ""
+"Hello everybody, this plugin is free and will remain free. I have some plans "
+"for add-ons that will need some more work and that I plan to create and sell "
+"at a small price."
+msgstr ""
+"Bonjour à vous, ce plugin est et restera gratuit. J'ai par contre prévu "
+"quelques add-ons qui vont demander un peu plus de travail et que j'envisage "
+"de développer et de mettre en vente à un tout petit prix."
+
+#: templates/settings-tab-3.php:18
+msgid ""
+"If you want to be warned about the add-ons release, please check the box "
+"below to have a WordPress notification. It will also make me know that you "
+"have som interest in it."
+msgstr ""
+"Si vous voulez être averti de la sortie des add-ons, n'hésitez pas à cocher "
+"les cases ci-dessous pour avoir une notification dans WordPress. Cela me "
+"permettra aussi d'avoir un retour et de savoir que vous y voyez un intérêt."
+
+#: templates/settings-tab-3.php:20
+msgid ""
+"I will be pleased if you tell me what you think about this plugin in the "
+"support page."
+msgstr "N'hésitez pas à me faire des retours via la page de support du plugin."
+
+#: templates/settings-tab-3.php:33
+msgid ""
+"Advance tuning of plugin home page, the memberlist columns and the fields of "
+"the memberlist and profile page"
+msgstr ""
+"Personnalisation avancée de l'accueil, des colonnes de la liste des membres "
+"et des champs de la page des membres/profil"
+
+#: templates/settings-tab-3.php:43
+msgid ""
+"Email sending (create groups and send emails to them: notice of the General "
+"Meeting, for some activities, reminder for members that have to pay, ...)"
+msgstr ""
+"Envoi de mails (création de groupes et envoi de mails à ces groupes : "
+"convocation d'AG, par activité, relance de cotisation en retard, ...)"
+
+#: templates/settings-tab-3.php:53
+msgid ""
+"Allow members to pay membership fees online with membership end date "
+"automatic update"
+msgstr ""
+"Paiement en ligne de la cotisation avec mise à jour automatique de la date "
+"de fin cotisation"
+
+#: templates/settings-tabs.php:20
+msgid "Law-1901-association plugin settings"
+msgstr "Réglages du plugin Law-1901-Association"
+
+#: templates/settings-tabs.php:39
+msgid "ACF groups"
+msgstr "Groupes ACF"
+
+#: templates/settings-tabs.php:48
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: templates/user-tab-1.php:56
+msgid "Membership end date"
+msgstr "Date de fin de cotisation"
+
+#: templates/user-tabs.php:25
+msgid "Profile of"
+msgstr "Profil de"
+
+#: templates/user-tabs.php:43
+msgid "Identity"
+msgstr "Identité"
+
+#: templates/user-tabs.php:52
+msgid "Additional information"
+msgstr "Informations supplémentaires"
+
+#~ msgid "Everything"
+#~ msgstr "Tout"
+
+#~ msgid "Save changes"
+#~ msgstr "Enregistrer les modifications"
+
+#~ msgid "Update"
+#~ msgstr "Mise à jour"
+
+#~ msgid "lorem ipsum"
+#~ msgstr "lorem ipsum dolor sit amet, consectetur adipiscing elit"
